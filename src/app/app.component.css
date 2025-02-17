@@ -352,7 +352,7 @@ h2 {
     color: #ffffff;
     font-family: 'Gilroy-Medium';
     font-weight: 700;
-    font-size: 26px; /* Трохи більший текст */
+    font-size: 26px;
     line-height: 32px;
     text-align: center;
   }
@@ -751,41 +751,6 @@ h2 {
   }
 
 }
-
-
-
-/* @media (max-width: 768px) {
-  .wrapper {
-    width: 100%;
-    padding: 16px;
-  }
-
-  .video-wrapper {
-    max-width: 100%;
-    height: calc(100vw * 0.5);
-  }
-
-  .cards {
-    left: 70px;
-    top: 110px; 
-    width: 80%;
-  }
-
-  .card {
-    width: 90%;
-    padding: 18px;
-  }
-
-  .card-title {
-    font-size: 22px;
-    line-height: 32px;
-  }
-
-  .card-description {
-    font-size: 14px;
-    line-height: 22px;
-  }
-} */
 
 @media (max-width: 450px)and (min-width: 381px) {
   .container{
